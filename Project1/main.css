@@ -1,0 +1,71 @@
+		body{
+		background-color: #a19f9a;
+		}
+		#wrapper{
+		width: 700px;	
+		margin: auto;
+		}
+		#profile{
+		width: 150px;
+		display: block;
+    	margin: 0 auto;	
+    	padding: 8px;
+    	background-color: #FFF;
+    	margin-top: 15px;
+		}
+		.nav{
+		text-align: center;
+		}
+		.nav li{
+		display: inline-block;
+		font-family: monospace, serif;
+		padding: 10px;
+		margin: 0, auto;
+		color: #000;
+		font-size: 16px;
+		font-weight: bold;
+		}
+		.nav li a{
+		color: #000;
+		text-decoration: none;
+		}
+		.navSocial li{
+		display: inline-block;
+		padding: 3px;
+		margin: 0, auto;
+		}
+		.title{
+		text-align: center;
+		font-family: monospace, serif;
+		font-size: 25px;
+		}
+		.copyBox{
+		text-align: left;
+		background-color: #FFF;
+		padding: 10px 20px 20px 20px;
+		}
+		h2{
+		font-family: monospace, serif;
+		padding: 0 10px 0 10px;
+		font-size: 15px;
+		text-align: center;
+		}
+		h3{
+		font-family: monospace, serif;
+		font-size: 18px;
+		}
+		.sample{
+		width: 550px;
+		height: auto;
+		}
+		p{
+		font-family: Arial, sans-serif;
+		font-size: 12px;	
+		}
+		.job{
+		font-family: Arial, sans-serif;
+		font-size: 15px;	
+		}
+		.contact{
+		color: #000;	
+		}
